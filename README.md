@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saeidakbari3364
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m saeid akbari
+- 👀 I’m interested in Machine learning and Image processing  
+- 🌱 I’m currently learning Machine Learning in Python
+- 💞️ I’m looking to collaborate on International universities and Companies  
+- 📫 Contact me with 0098 993 2907962
 
 <!---
 saeidakbari3364/saeidakbari3364 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
